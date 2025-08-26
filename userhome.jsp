@@ -80,7 +80,7 @@
   <div class="container">
     <div class="col-md-8 col-md-offset-2 section-title">
       <h2>Our Services</h2>
-      <p>It is established in 1997, is an engineering college for women located in Hyderabad, India. It is run by voluntary group Sangam Laxmibai Vidyapeet with the aim to promote female education.</p>
+      <p></p>
     </div>
   </div>  
 </div>
@@ -89,11 +89,7 @@
   <div class="container">
     <div class="col-md-8 col-md-offset-2 section-title text-center">
       <h2>Our Portfolio</h2>
-      <p>Computer Science And Engineering<br>
-                        Electronics And Communication Engineering<br>
-						Electrical And Electronics Engineering<br>
-						Electronics And Instrumentation Engineering<br>
-						Information Technology.</p>
+      <p></p>
     </div>
   </div>
 </div>
@@ -103,7 +99,7 @@
     <div class="container">
       <div class="col-md-8 col-md-offset-2 section-title">
         <h2>Get In Touch</h2>
-		<p>To impart quality technical education to our students so that they become competent engineers, scientists, academicians, etc., the college celebrates freedom of thoughts and encourages hard work and also inculcates human values and concern for the society.</p>
+		<p></p>
     </div
       </div>
       <div class="col-md-8 col-md-offset-2">
