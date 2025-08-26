@@ -1,0 +1,17 @@
+create database sas;
+use sas;
+create table admin(username varchar(30),pwd varchar(30));
+insert into admin values('admin','admin');
+create table deptadmin(username varchar(30),pwd varchar(30));
+insert into deptadmin values('dept','dept');
+create table EMERGENCY_REQUESTS(studentid varchar(30),purose text,response text,status int(1));
+create table examadmin(username varchar(30),pwd varchar(30));
+insert into examadmin values('exam','exam');
+create table LIBRARYADMIN(username varchar(30),pwd varchar(30));
+insert into LIBRARYADMIN values('library','library');
+create table response(studentid varchar(40),examadminres text,libraryadminres text,tadminres text,deptadminres text,status int(1));
+create table student_details(studentid varchar(40),sname varchar(40),branch varchar(40),email varchar(40),pwd varchar(40),mno varchar(40),addr text);
+create table student_req(studentid varchar(40),mes text,status int(1));
+create table tadmin(username varchar(40),pwd varchar(40));
+insert into tadmin values('transport','transport');
+create table normal_response(htno text,mes text);
